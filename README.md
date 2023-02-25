@@ -1,4 +1,4 @@
 
 -  I’m currently learning system development
--  actually I intend to learn even more to become a dev
--  brazilian, 17 years old
+-  actually I am learning even more to become a dev
+-  brazilian, 18 years old
